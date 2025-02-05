@@ -17,7 +17,7 @@ function App() {
       <Intro/>
     </div>
     {/* end intro */}
-
+    
     {/* trending section */}
     <div className='trending'>
       <Trending/>
