@@ -1,11 +1,11 @@
 
 import{Card, Col, Container, Image, Row} from "react-bootstrap";
-import duneImage from "../assets/images/trending/dune.jpg"
-import everythingImage from "../assets/images/trending/everything.jpg"
-import infiniteImage from "../assets/images/trending/infinite.jpg"
-import jokerImage from "../assets/images/trending/joker.jpg"
-import lightyearImage from "../assets/images/trending/lightyear.jpg"
-import morbiusImage from "../assets/images/trending/morbius.jpg"
+import duneImage from "../assets/images/trending/dune.jpg";
+import everythingImage from "../assets/images/trending/everything.jpg";
+import infiniteImage from "../assets/images/trending/infinite.jpg";
+import jokerImage from "../assets/images/trending/joker.jpg";
+import lightyearImage from "../assets/images/trending/lightyear.jpg";
+import morbiusImage from "../assets/images/trending/morbius.jpg";
 
 
 const Trending = () => {
