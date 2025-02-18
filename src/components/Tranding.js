@@ -6,7 +6,7 @@ import infiniteImage from "../assets/images/trending/infinite.jpg"
 import jokerImage from "../assets/images/trending/joker.jpg"
 import lightyearImage from "../assets/images/trending/lightyear.jpg"
 import morbiusImage from "../assets/images/trending/morbius.jpg"
-import morbiusImage from "../assets/images/AA1.jpg"
+
 
 const Trending = () => {
     return(
